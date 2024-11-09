@@ -1,0 +1,14 @@
+# TODOLIST Checklist
+- create template todolist (html css)
+- design data (mảng các object)
+- saveData()
+- loadData()
+- addTask()
+- renderTask()
+- submit event
+- markTaskComplete()
+- deleteTask()
+- editTask()
+    -  push
+    -  save
+- countTaskComplete()
